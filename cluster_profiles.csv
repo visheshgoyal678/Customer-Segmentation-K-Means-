@@ -1,0 +1,6 @@
+Cluster,Age,AnnualIncome_k,SpendingScore,PurchaseFrequency,TenureMonths,Count,Pct,SegmentLabel
+0,24.7,32.1,73.8,13.7,11.3,109,21.8,Young Impulse Spenders
+1,46.9,35.9,28.4,4.6,15.2,130,26.0,Budget-Conscious (Established)
+2,36.5,104.2,78.3,18.5,33.5,77,15.4,Premium / High-Value
+3,48.1,108.5,19.9,3.6,24.3,79,15.8,Affluent but Cautious
+4,38.9,55.3,46.8,8.0,39.3,105,21.0,Affluent but Cautious
